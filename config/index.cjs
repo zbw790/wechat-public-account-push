@@ -84,8 +84,8 @@ const USER_CONFIG = {
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
   LITERARY_PREFERENCE: '',
 
-  PROVINCE: '陕西',
-  CITY: '西安',
+  PROVINCE: '上海',
+  CITY: '上海',
 
   USERS: [
     {
